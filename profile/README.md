@@ -27,7 +27,6 @@ Para contribuir com o projeto, você deve seguir os seguintes passos:
 <br>
 <br>
 
-
 ## Licença 📜
 Este projeto está sob a licença MIT 📄. Consulte o arquivo LICENSE para obter mais informações.
 
